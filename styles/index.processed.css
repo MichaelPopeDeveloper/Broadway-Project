@@ -21,6 +21,14 @@ ul {
 	
 }
 
+#img-strip {
+	background-image: url('../resources/images/building.png');
+    font-family: Helvetica;
+    font-size: 23px;
+    font-weight: bold;
+    color: white;
+}
+
 #header-text {
 	font-family: Helvetica;
 	font-size: 70px;
@@ -50,4 +58,18 @@ ul {
 	font-family: Helvetica;
 	font-size: 14px;
 }
+
+/*#p-2 {
+	font-family: Helvetica;
+	font-size: 11px;
+}*/
+
+#footer {
+	font-family: Helvetica;
+	font-size: 11px;
+	color: white;
+	background-color: dimgray;
+	text-align: left;
+}
+
 
