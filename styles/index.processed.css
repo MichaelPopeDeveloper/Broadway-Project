@@ -21,6 +21,13 @@ ul {
 	
 }
 
+#header-text {
+	font-family: Helvetica;
+	font-size: 70px;
+	font-weight: bold;
+	color: white;
+}
+
 #img-strip {
 	background-image: url('../resources/images/building.png');
     font-family: Helvetica;
